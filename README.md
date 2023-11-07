@@ -13,8 +13,7 @@ Website Structure
 The website is organized into several main sections:
 
 1. Home
-2. 
-3. The landing page featuring a welcome message and highlights of upcoming events.
+The landing page featuring a welcome message and highlights of upcoming events.
 Links to other important sections and recent news.
 
 
@@ -25,8 +24,7 @@ Bios of our clergy and staff members.
 Details about our location and service times.
 
 
-7. Worship
-8. 
+7. Worship 
 Schedule of services, including times and locations.
 Information about our worship style and traditions.
 Sermon archives.
@@ -50,47 +48,6 @@ Links to recommended reading materials and websites.
 
 
 16. Contact Us
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 Contact information for the church office.
 A contact form for inquiries and prayer requests.
 Maintenance

@@ -1,6 +1,6 @@
 # Treasure-House
 
-Church Website README
+Treasure House Church Website README
 
 This README file provides information about our church website, its structure, and important details for maintaining and updating it.
 
@@ -14,15 +14,25 @@ The website is organized into several main sections:
 
 1. Home
 
-The landing page featuring a welcome message and highlights of upcoming events.
+You are welcome to the family of Jesus Christ! We are glad you visited and would want to share with you the everlasting love that Jesus has made available for the whole world! Come on, and hop on board!
 
 Links to other important sections and recent news.
 
 
-2. About Us
+2. About Us: Mission & Vision
 
-Information about our church's history, mission, vision, and values.
+1) To make heaven.
 
+2) To take as many people with us.
+
+3) To have a member of RCCG in every family of all nations.
+
+4) To accomplish No. 1 above, holiness will be our lifestyle.
+
+5) To accomplish No. 2 and 3 above, we will plant churches within five minutes walking distance in every city and town of developing countries and within five minutes driving distance in every city and town of developed countries.
+
+6) We will pursue these objectives until every Nation in the world is reached for the Lord Jesus Christ
+   
 Bios of our clergy and staff members.
 
 Details about our location and service times.

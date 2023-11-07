@@ -62,8 +62,12 @@ Contact information for the church office.
 
 A contact form for inquiries and prayer requests.
 
-
 Maintenance
+
+
+
+
+
 
 Technologies Used
 The website is built using HTML, CSS, and JavaScript.

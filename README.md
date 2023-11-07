@@ -64,32 +64,27 @@ A contact form for inquiries and prayer requests.
 
 Maintenance
 
-
-
-
-
-
-Technologies Used
+8. Technologies Used
 The website is built using HTML, CSS, and JavaScript.
 
 We use a content management system (CMS) for easy content updates.
 
 
-Updating Content
+9. Updating Content
 Content updates should be made through the CMS. Login information is available with the church office.
 
 Regularly review and update event calendars, announcements, and sermons.
 
 Ensure that contact information is up-to-date.
 
-Hosting and Domain
+10. Hosting and Domain
 
 The website is hosted with [Hosting Provider].
 
 The domain is registered with [Domain Registrar].
 
 
-Special Considerations
+11. Special Considerations
 
 Ensure that the website's design and content align with the church's branding and messaging.
 
@@ -100,20 +95,20 @@ Consider the accessibility of the website to ensure it is usable for individuals
 Regularly back up the website and keep backups in a secure location.
 
 
-Collaborators
+12. Collaborators
 
 [Your Name] - Webmaster
 
 [Church Staff Members] - Content Managers
 
 
-Additional Notes
+13. Additional Notes
 
 Remember to maintain a welcoming and informative tone in all website content.
 
 Test the website's functionality and design on various browsers and devices for optimal user experience.
 
 
-License
+14. License
 
 This church website is the property of [Church Name]. All rights reserved.

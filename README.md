@@ -2,7 +2,6 @@
 
 Church Website README
 
-Overview
 This README file provides information about our church website, its structure, and important details for maintaining and updating it.
 
 Purpose

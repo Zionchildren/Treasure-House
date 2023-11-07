@@ -21,17 +21,17 @@ Links to other important sections and recent news.
 
 2. About Us: Mission & Vision
 
-1) To make heaven.
+   a) To make heaven.
 
-2) To take as many people with us.
+   b) To take as many people with us.
 
-3) To have a member of RCCG in every family of all nations.
+   c) To have a member of RCCG in every family of all nations.
 
-4) To accomplish No. 1 above, holiness will be our lifestyle.
+   d) To accomplish No. 1 above, holiness will be our lifestyle.
 
-5) To accomplish No. 2 and 3 above, we will plant churches within five minutes walking distance in every city and town of developing countries and within five minutes driving distance in every city and town of developed countries.
+   e) To accomplish No. 2 and 3 above, we will plant churches within five minutes walking distance in every city and town of developing countries and within five minutes driving distance in every city and town         of developed countries.
 
-6) We will pursue these objectives until every Nation in the world is reached for the Lord Jesus Christ
+   f) We will pursue these objectives until every Nation in the world is reached for the Lord Jesus Christ
    
 Bios of our clergy and staff members.
 
